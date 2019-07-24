@@ -1,0 +1,7 @@
+[report]
+omit =
+    setup.py
+    iss/__main__.py
+    iss/_version.py
+    versioneer.py
+    tests/*
